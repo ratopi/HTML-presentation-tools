@@ -1,5 +1,7 @@
 #HTML presentation tools
+
 ##CSSS
+
 CSS-based SlideShow System
 
 * [Source](https://github.com/LeaVerou/CSSS)
@@ -13,6 +15,7 @@ A JavaScript library for building modern HTML presentations. deck.js is flexible
 * [Example](http://imakewebthings.github.com/deck.js/)
 
 ##DZSlides
+
 DZSlides is a HTML template to build slides in HTML5 and CSS3.  
 'template.html' is the only file you need.  
 Shells are extensions. You don't need them for a basic usage.
@@ -21,6 +24,7 @@ Shells are extensions. You don't need them for a basic usage.
 * [Examples](http://paulrouget.com/dzslides/)
 
 ##Shower
+
 Сross-browser presentation template.
 
 * [Source](https://github.com/pepelsbey/shower)
