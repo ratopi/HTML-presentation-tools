@@ -1,4 +1,7 @@
 #HTML presentation tools
+
+There are many HTML presentation tools and they are all created for slightly different reasons. Here's an overview. Please let me know if I forgot any.
+
 ##CSSS
 
 CSS-based SlideShow System
