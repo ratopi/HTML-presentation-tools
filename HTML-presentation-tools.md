@@ -1,5 +1,4 @@
 #HTML presentation tools
-
 ##CSSS
 
 CSS-based SlideShow System
@@ -22,6 +21,13 @@ Shells are extensions. You don't need them for a basic usage.
 
 * [Source](https://github.com/paulrouget/dzslides)
 * [Examples](http://paulrouget.com/dzslides/)
+
+##Impress
+
+It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+
+* [Source](https://github.com/bartaz/impress.js)
+* [Example](http://bartaz.github.com/impress.js/)
 
 ##Shower
 
