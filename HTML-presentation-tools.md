@@ -25,6 +25,14 @@ Shells are extensions. You don't need them for a basic usage.
 * [Source](https://github.com/paulrouget/dzslides)
 * [Examples](http://paulrouget.com/dzslides/)
 
+##Fathom
+
+If you're making a presentation on JavaScript, make it in JavaScript.
+
+* [Source](https://github.com/markdalgleish/fathom)
+* [Example](http://markdalgleish.com/presentations/jquerymobile/)
+* [Explanation](http://markdalgleish.com/projects/fathom/)
+
 ##Impress
 
 It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
