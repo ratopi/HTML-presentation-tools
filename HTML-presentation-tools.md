@@ -68,3 +68,9 @@ S5 is a slide show format based entirely on XHTML, CSS, and JavaScript. With one
 
 * [Source](https://github.com/pepelsbey/shower)
 * [Example](http://pepelsbey.github.com/shower/en.htm)
+
+##Slippy
+"To upload your presentation on SlideShare, or to share it with others, it can be convenient to export it to a PDF. Slippy comes with a CLI utility that does just that."
+
+* [Example](http://slides.seld.be/?file=2010-05-30+Example.html#1)
+* [Source](https://github.com/Seldaek/slippy)
