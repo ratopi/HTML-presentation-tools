@@ -47,6 +47,13 @@ It's a presentation framework based on the power of CSS3 transforms and transiti
 * [Source](https://github.com/bartaz/impress.js)
 * [Example](http://bartaz.github.com/impress.js/)
 
+##POW!
+
+POW is a simple presentation system for HTML5.
+
+* [Source](https://github.com/chromakode/pow)
+* [Example](http://usepow.com/)
+
 ##reveal.js
 
 A CSS 3D slideshow tool for quickly creating good looking HTML presentations. Doesn't rely on any external libraries but highlight.js is included by default for code highlighting.
