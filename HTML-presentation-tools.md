@@ -33,6 +33,13 @@ If you're making a presentation on JavaScript, make it in JavaScript.
 * [Example](http://markdalgleish.com/presentations/jquerymobile/)
 * [Explanation](http://markdalgleish.com/projects/fathom/)
 
+##html5slides
+
+Get the template and copy/paste it to a new file on your local computer.
+
+* [Example](https://html5slides.googlecode.com/svn/trunk/template/index.html#1)
+* [Explanation and download](https://code.google.com/p/html5slides/)
+
 ##Impress
 
 It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
