@@ -69,6 +69,13 @@ S5 is a slide show format based entirely on XHTML, CSS, and JavaScript. With one
 * [Source](http://meyerweb.com/eric/tools/s5/s5-intro.zip)
 * [Example](http://meyerweb.com/eric/tools/s5/s5-intro.html)
 
+##Scrolldeck.js
+
+A jQuery plugin for making scrolling presentation decks 
+
+* [Explanation](http://johnpolacek.github.com/scrolldeck.js/)
+* [Source](https://github.com/johnpolacek/scrolldeck.js)
+
 ##Shower
 
 Сross-browser presentation template.
