@@ -6,3 +6,5 @@ Shells are extensions. You don't need them for a basic usage.
 
 * [Source](https://github.com/paulrouget/dzslides)
 * [Examples](http://paulrouget.com/dzslides/)
+
+[Back](0.md)

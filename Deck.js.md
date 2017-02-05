@@ -4,3 +4,5 @@ A JavaScript library for building modern HTML presentations. deck.js is flexible
 
 * [Source](https://github.com/imakewebthings/deck.js)
 * [Example](http://imakewebthings.github.com/deck.js/)
+
+[Back](0.md)
